@@ -24,7 +24,8 @@ public class Account {
 	private final String firstName;
 
 	private final String lastName;
-
+	
+	//method to initialize 
 	public Account(String username, String password, String firstName, String lastName) {
 		this.username = username;
 		this.password = password;
